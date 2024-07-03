@@ -5,6 +5,7 @@ import Empowering from "./Empowering/Empowering";
 import FAQ from "./FAQ/FAQ";
 import Footer from "./Footer/Footer";
 import Navbar from "./Navbar/Navbar";
+import Testimonial from "./Testimonial/Testimonial";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Navbar />
       <Banner />
       <Empowering />
+      <Testimonial />
       <FAQ />
       <Appointment />
       <Footer />

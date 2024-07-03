@@ -8,7 +8,7 @@ const FAQ = () => {
   };
 
   return (
-    <div className=" flex items-center justify-center min-h-screen">
+    <div className=" flex items-center justify-center min-h-full">
       <div className="w-full max-w-6xl  bg-white ">
         <h1 className="text-left p-4 w-16 border-2 border-black rounded-3xl">
           FAQ
