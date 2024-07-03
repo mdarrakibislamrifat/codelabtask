@@ -6,9 +6,12 @@ import arrow1 from "../assets/Arrow1.png";
 const Empowering = () => {
   return (
     <section
-      className="max-w-6xl mt-4 mx-auto p-6 bg-[#FFFFF5]
+      className="items-center max-w-6xl mt-4 mx-auto p-6 bg-[#FFFFF5]
 "
     >
+      <h1 className="text-left p-4 w-24 border-2 border-black rounded-3xl">
+        SERVICE
+      </h1>
       <div className="grid grid-cols-1 md:grid-cols-2  gap-6">
         <div className="text-center mb-10 h-[394px] w-[524px]">
           <h1 className="text-3xl font-bold mb-4">

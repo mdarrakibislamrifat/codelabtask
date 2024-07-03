@@ -1,4 +1,5 @@
 import "./App.css";
+import Appointment from "./Appointment/Appointment";
 import Banner from "./Banner/Banner";
 import Empowering from "./Empowering/Empowering";
 import FAQ from "./FAQ/FAQ";
@@ -12,6 +13,7 @@ function App() {
       <Banner />
       <Empowering />
       <FAQ />
+      <Appointment />
       <Footer />
     </div>
   );
